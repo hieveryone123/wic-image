@@ -1,5 +1,5 @@
 # wic-image
-## Under Developement -If Any Bugs arises ping me at Piyushgupta1999.pg@gmail.com
+Under Developement
 ### On Ubuntu/Debian:
 
 ```bash

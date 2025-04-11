@@ -1,14 +1,5 @@
 # wic-image
-# 🔐 SHC Compiled C File
-
-This repository contains a `.c` file generated using the `shc` tool to protect the original shell script.
-
----
-
-## 📦 Install `shc`
-
-To generate `.c` files from your own shell scripts in the future, install `shc`:
-
+## Under Developement -If Any Bugs arises ping me at Piyushgupta1999.pg@gmail.com
 ### On Ubuntu/Debian:
 
 ```bash
